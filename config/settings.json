@@ -1,0 +1,21 @@
+{
+    "projects": {
+        "ProjetAA": {
+            "additionalDependencies": [],
+            "additionalIncludeDirectories": [],
+            "additionalLibraryDirectories": [],
+            "dependencies": [],
+            "dependents": [],
+            "guid": "108D531A-2BFB-57EF-27BE-16FF601C6757",
+            "lib": false,
+            "pch": true,
+            "preprocessorDefinitions": [],
+            "vcpkg": false,
+            "window": true
+        }
+    },
+    "solution_guid": "5F0F78CE-4AAE-01E6-7723-22712C652422",
+    "solution_name": "ProjetAA",
+    "startup_project": "ProjetAA",
+    "version": "1.17.4"
+}
